@@ -1,4 +1,4 @@
-# -ES6-Syntax-Exercise-1-
+# ES6 Syntax Exercise 1
 
 Write a JavaScript program to compare two objects to determine if the first contains equivalent property values to the second one.
 
